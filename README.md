@@ -1,5 +1,4 @@
-# Ubuntu-Core-20
-Ubuntu 創新 Core 20 產品發布 &amp; 技術研討會
+# Ubuntu 創新 Core 20 產品發布 &amp; 技術研討會
 
 * 【邊緣計算到雲端基礎設施的下一代堆棧】
 Tony Chiang, General Manger Taiwan, Canonical
